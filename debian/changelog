@@ -1,3 +1,9 @@
+python-subprocess32 (3.2.6-1~precise0+exo1) precise; urgency=medium
+
+  * Backport for Precise.
+
+ -- Vincent Bernat <bernat@debian.org>  Tue, 02 Feb 2016 11:12:01 +0100
+
 python-subprocess32 (3.2.6-1) unstable; urgency=medium
 
   * Initial release (Closes: #797583).
