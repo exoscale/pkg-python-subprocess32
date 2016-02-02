@@ -1,0 +1,5 @@
+python-subprocess32 (3.2.6-1) unstable; urgency=medium
+
+  * Initial release (Closes: #797583).
+
+ -- Daniel Stender <debian@danielstender.com>  Tue, 01 Sep 2015 21:00:09 +0200
